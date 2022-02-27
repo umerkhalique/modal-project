@@ -31,7 +31,7 @@
    text-transform: uppercase;
    transition: 0.5s;
    background-size: 200% auto;
-   color: black;            
+   color: #fff;            
    box-shadow: rgba(0, 0, 0, 0.1) 0px 20px 25px -5px, rgba(0, 0, 0, 0.04) 0px 10px 10px -5px;
    border-radius: 10px;
    display: block;
@@ -40,7 +40,7 @@
 
  .btn-grad:hover {
    background-position: right center; /* change the direction of the change here */
-   color: black;
+   color: #fff;
    text-decoration: none;
  }
 
