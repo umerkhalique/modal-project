@@ -14,7 +14,7 @@
 .card{
     width: 400px;
     height: 250px;
-    border-radius: 5px;
+    border-radius: 8px;
     background-color: #F2C9E1;
     box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
     display: flex;
@@ -29,6 +29,7 @@
    padding: 10px 20px;
    text-align: center;
    text-transform: uppercase;
+   font-family: 'Lato', sans-serif;
    transition: 0.5s;
    background-size: 200% auto;
    color: #fff;            
@@ -47,6 +48,7 @@
 .inner1{
     display: flex;
     text-align: center;
+    font-family: 'Lato', sans-serif;
 
 }
 h1{
