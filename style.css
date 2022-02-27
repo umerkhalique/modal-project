@@ -56,9 +56,43 @@ h1{
     background: -webkit-linear-gradient(#5FC3E4, #E55D87);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+
  }
  .inner2{
     display: flex;
     justify-content: center;
 
+}
+/* Modal */
+.modal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin-top: -100vh;
+    
+}
+
+.cardd{
+    width: 600px;
+    height: 500px;
+    background-color: #fff;
+    border-radius: 8px;
+}
+.btn-close{
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px;
+    cursor: pointer;
+}
+.h1{
+    display: flex;
+    align-items: center;
+    height: 300px;
+}
+.fa{
+    color: #a80202;
+    font-size: 30px;
 }
