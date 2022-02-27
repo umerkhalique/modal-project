@@ -13,6 +13,3 @@ btnclose.addEventListener("click", function(){
         document.querySelector(".modal").style.display = 'none';
     }
 });
-window.onload = function() {
-    document.querySelector(".modal").style.display = 'none';
-  }
